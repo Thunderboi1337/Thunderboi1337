@@ -2,11 +2,8 @@
 <h3 align="center">A passionate Embedded programminger from Sweden</h3>
 <p align="center">
 🌱 I’m currently learning **Embedded programming**
-  
 👨‍💻 All of my projects are available at [github](github)
-
 💬 Ask me about **stuff**
-
 📫 How to reach me **marcus.asberg.98@gmail.com**
 </p>
 
