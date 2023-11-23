@@ -1,6 +1,8 @@
 <h1 align="center">Hi, I'm Marcus aka the amazing Thunderboi1337👋,</h1>
 <h3 align="center">A passionate Embedded programminger from Sweden</h3>
+<div style="text-align: center;">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&repeat=false&random=false&width=667&height=120&lines=Pappercut%3A+A+tree%E2%80%99s+final+moment+of+revenge." alt="Typing SVG" /></a>
+</div>
 <p align="center">
 🌱 I’m currently learning **Embedded programming**
 </p>
