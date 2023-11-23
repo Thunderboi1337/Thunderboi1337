@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I'm Marcus aka the amazing Thunderboi1337👋,</h1>
 <h3 align="center">A passionate Embedded programminger from Sweden</h3>
 <p align="center">
-- 🌱 I’m currently learning **Embedded programming**
+🌱 I’m currently learning **Embedded programming**
+  
+👨‍💻 All of my projects are available at [github](github)
 
-- 👨‍💻 All of my projects are available at [github](github)
+💬 Ask me about **stuff**
 
-- 💬 Ask me about **stuff**
-
-- 📫 How to reach me **marcus.asberg.98@gmail.com**
+📫 How to reach me **marcus.asberg.98@gmail.com**
 </p>
 
 <h3 align="center">Connect with me:</h3>
