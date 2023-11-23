@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marcus Robertsson</h1>
-<h3 align="center">A passionate frontend developer from Sweden</h3>
+<h3 align="center">A passionate Embedded programminger from Sweden</h3>
 
 - 🌱 I’m currently learning **Embedded programming**
 
