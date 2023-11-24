@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Marcus aka the amazing Thunderboi1337👋,</h1>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&repeat=false&random=false&width=667&lines=Pappercut%3A+A+tree%E2%80%99s+final+moment+of+revenge." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&repeat=false&random=false&width=667&lines=%E7%B4%99%E5%82%B7%3A+%E6%9C%A8%E3%81%AE%E6%9C%80%E5%BE%8C%E3%81%AE%E5%BE%A9%E8%AE%90%E3%81%AE%E7%9E%AC%E9%96%93;Pappercut%3A+A+tree%E2%80%99s+final+moment+of+revenge." alt="Typing SVG" /></a>
 <h3 align="center">A passionate Embedded programminger from Sweden</h3>
 </p>
 
