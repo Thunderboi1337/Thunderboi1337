@@ -17,6 +17,13 @@
 📫 How to reach me **marcus.asberg.98@gmail.com**
 </p>
 
+<a href="https://github.com/thunderboi1337/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=thunderboi1337" />
+</a>
+<a href="https://github.com/thunderboi1337/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thunderboi1337&layout=compact&langs_count=8&card_width=320" />
+</a>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thunderboi1337&theme=tokyonight)](https://github.com/thunderboi1337/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thunderboi1337&theme=tokyonight&layout=donut-vertical)](https://github.com/thunderboi1337/github-readme-stats)
