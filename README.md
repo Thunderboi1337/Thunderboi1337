@@ -23,10 +23,10 @@
 <a href="https://github.com/thunderboi1337/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thunderboi1337&theme=tokyonight&layout=donut-vertical" />
 </a>
+<a href="https://github.com/thunderboi1337/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?thunderboi1337=ffflabs&theme=tokyonight" />
+</a>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thunderboi1337&theme=tokyonight)](https://github.com/thunderboi1337/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thunderboi1337&theme=tokyonight&layout=donut-vertical)](https://github.com/thunderboi1337/github-readme-stats)
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?thunderboi1337=ffflabs&theme=tokyonight)](https://github.com/thunderboi1337/github-readme-stats)
 
