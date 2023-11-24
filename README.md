@@ -18,15 +18,19 @@
 </p>
 <p align="center">
 <a href="https://github.com/thunderboi1337/github-readme-stats">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=thunderboi1337&theme=tokyonight" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=thunderboi1337&theme=tokyonight" />
 </a>
   </p>
+  <p align="center">
 <a href="https://github.com/thunderboi1337/convoychat">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thunderboi1337&theme=tokyonight&layout=compact" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thunderboi1337&theme=tokyonight&layout=compact" />
 </a>
+  </p>
+  <p align="center">
 <a href="https://github.com/thunderboi1337/github-readme-stats">
   <img height=250 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?thunderboi1337=ffflabs&theme=tokyonight" />
 </a>
+  </p>
 
 
 <h3 align="center">Connect with me:</h3>
