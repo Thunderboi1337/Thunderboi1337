@@ -17,7 +17,7 @@
 📫 How to reach me **marcus.asberg.98@gmail.com**
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thunderboi1337)](https://github.com/thunderboi1337/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thunderboi1337&theme=tokyonight)](https://github.com/thunderboi1337/github-readme-stats)
 
 
 <h3 align="center">Connect with me:</h3>
