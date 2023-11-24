@@ -18,7 +18,7 @@
 </p>
 
 <a href="https://github.com/thunderboi1337/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thunderboi1337&theme=tokyonight" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=thunderboi1337&theme=tokyonight" />
 </a>
 <a href="https://github.com/thunderboi1337/convoychat">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thunderboi1337&theme=tokyonight&layout=compact" />
