@@ -31,7 +31,7 @@ ______________________________________________________
   </p>
   <p align="center">
 <a href="https://github.com/thunderboi1337/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?thunderboi1337=ffflabs&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?thunderboi1337=ffflabs&theme=tokyonight" />
 </a>
   </p>
 
