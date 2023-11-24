@@ -21,7 +21,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thunderboi1337&theme=tokyonight&layout=donut-vertical)](https://github.com/thunderboi1337/github-readme-stats)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatimethunderboi1337==ffflabs&theme=tokyonight)](https://github.com/thunderboi1337/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatimethunderboi1337=ffflabs&theme=tokyonight)](https://github.com/thunderboi1337/github-readme-stats)
 
 
 
