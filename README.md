@@ -16,10 +16,11 @@
 <p align="center">
 📫 How to reach me **marcus.asberg.98@gmail.com**
 </p>
-
+<p align="center">
 <a href="https://github.com/thunderboi1337/github-readme-stats">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=thunderboi1337&theme=tokyonight" />
 </a>
+  </p>
 <a href="https://github.com/thunderboi1337/convoychat">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thunderboi1337&theme=tokyonight&layout=compact" />
 </a>
