@@ -19,7 +19,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thunderboi1337&theme=tokyonight)](https://github.com/thunderboi1337/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thunderboi1337&theme=tokyonight)](https://github.com/thunderboi1337/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thunderboi1337&theme=tokyonight&layout=donut-vertical)](https://github.com/thunderboi1337/github-readme-stats)
 
 
 
