@@ -1,4 +1,4 @@
-<h1 align="center">The amazing Thunderboi1337</h1>
+[![Comic Book fonts](https://see.fontimg.com/api/renderfont4/rg1lK/eyJyIjoiZnMiLCJoIjo2MCwidyI6MTAwMCwiZnMiOjYwLCJmZ2MiOiIjMDAwMDAwIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/dGhlIE1JR0hUWSBUaHVuZGVyYm9p/komigo-3d-regular.png)](https://www.fontspace.com/category/comic-book)
 
 ![alt text](https://github.com/Thunderboi1337/Thunderboi1337/blob/main/DSCF5795.jpg)
 
