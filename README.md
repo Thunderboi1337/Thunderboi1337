@@ -1,4 +1,4 @@
-[![Comic Book fonts](https://see.fontimg.com/api/renderfont4/rg1lK/eyJyIjoiZnMiLCJoIjo2MCwidyI6MTAwMCwiZnMiOjYwLCJmZ2MiOiIjRTQ1MjUwIiwiYmdjIjoiI0ZGRTYzOCJ9/dGhlIE1JR0hUWSBUSFVOREVSQk9J/komigo-3d-regular.png)](https://www.fontspace.com/category/comic-book)
+[![Marvel fonts](https://see.fontimg.com/api/renderfont4/7BeAw/eyJyIjoiZnMiLCJoIjo0NiwidyI6MTAwMCwiZnMiOjQ2LCJmZ2MiOiIjRTQ1MjUwIiwiYmdjIjoiI0ZGRTYzOCIsInQiOjF9/dGhlIE1JR0hUWSBUSFVOREVSQk9J/love-and-thunder.png)](https://www.fontspace.com/category/marvel)
 
 ![alt text](https://github.com/Thunderboi1337/Thunderboi1337/blob/main/DSCF5795.jpg)
 
