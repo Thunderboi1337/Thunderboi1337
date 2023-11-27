@@ -35,6 +35,9 @@ ________________________________________________________
 
 ______________________________________________________
 
+<h3 align="center">Random stats:</h3>
+
+
 <p align="center">
 <a href="https://github.com/thunderboi1337/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=thunderboi1337&theme=tokyonight" />
