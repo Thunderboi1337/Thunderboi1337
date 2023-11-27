@@ -1,4 +1,4 @@
-[![Comic Book fonts](https://see.fontimg.com/api/renderfont4/rg1lK/eyJyIjoiZnMiLCJoIjo2MCwidyI6MTAwMCwiZnMiOjYwLCJmZ2MiOiIjMDAwMDAwIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/dGhlIE1JR0hUWSBUaHVuZGVyYm9p/komigo-3d-regular.png)](https://www.fontspace.com/category/comic-book)
+[![Comic Book fonts](https://see.fontimg.com/api/renderfont4/rg1lK/eyJyIjoiZnMiLCJoIjo2MCwidyI6MTAwMCwiZnMiOjYwLCJmZ2MiOiIjRTQ1MjUwIiwiYmdjIjoiI0ZGRTYzOCJ9/dGhlIE1JR0hUWSBUSFVOREVSQk9J/komigo-3d-regular.png)](https://www.fontspace.com/category/comic-book)
 
 ![alt text](https://github.com/Thunderboi1337/Thunderboi1337/blob/main/DSCF5795.jpg)
 
