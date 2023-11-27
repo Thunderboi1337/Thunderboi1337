@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Marcus aka the amazing Thunderboi1337👋,</h1>
+<h1 align="center">The amazing Thunderboi1337👋,</h1>
 
 ![alt text](https://github.com/Thunderboi1337/Thunderboi1337/blob/main/DSCF5795.jpg)
 
