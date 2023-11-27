@@ -1,4 +1,4 @@
-[![Marvel fonts](https://see.fontimg.com/api/renderfont4/7BeAw/eyJyIjoiZnMiLCJoIjo0NiwidyI6MTAwMCwiZnMiOjQ2LCJmZ2MiOiIjRTQ1MjUwIiwiYmdjIjoiI0ZGRTYzOCIsInQiOjF9/dGhlIE1JR0hUWSBUSFVOREVSQk9J/love-and-thunder.png)](https://www.fontspace.com/category/marvel)
+[![Lightning fonts](https://see.fontimg.com/api/renderfont4/0WO1P/eyJyIjoiZnMiLCJoIjo0NiwidyI6MTAwMCwiZnMiOjQ2LCJmZ2MiOiIjRTREMDUwIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/dGhlIE1JR0hUWSBUSFVOREVSQk9J/godofthunder.png)](https://www.fontspace.com/category/lightning)
 
 ![alt text](https://github.com/Thunderboi1337/Thunderboi1337/blob/main/DSCF5795.jpg)
 
