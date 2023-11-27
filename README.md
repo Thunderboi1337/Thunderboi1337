@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Marcus aka the amazing Thunderboi1337👋,</h1>
 <p align="center">
 ![Alt text](\C\Users\Marcus\Pictures\jhgfhmgf.png)
-<img src="/path/to/img.jpg" alt="Alt text" title="Optional title">
+<img src="C\Users\Marcus\Pictures\jhgfhmgf.png" alt="Alt text" title="Optional title">
 
   
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&repeat=false&random=false&width=667&lines=%E7%B4%99%E5%82%B7%3A+%E6%9C%A8%E3%81%AE%E6%9C%80%E5%BE%8C%E3%81%AE%E5%BE%A9%E8%AE%90%E3%81%AE%E7%9E%AC%E9%96%93;Pappercut%3A+A+tree%E2%80%99s+final+moment+of+revenge." alt="Typing SVG" /></a>
