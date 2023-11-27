@@ -1,6 +1,3 @@
-<p align="center">[![Marvel fonts](https://see.fontimg.com/api/renderfont4/7BeAw/eyJyIjoiZnMiLCJoIjo0NiwidyI6MTAwMCwiZnMiOjQ2LCJmZ2MiOiIjRTQ1MjUwIiwiYmdjIjoiI0ZGRTYzOCIsInQiOjF9/dGhlIE1JR0hUWSBUSFVOREVSQk9J/love-and-thunder.png)](https://www.fontspace.com/category/marvel)
-</p>
-
 <p align="center">
 <a href="https://www.fontspace.com/category/marvel">
   <img align="center" src="https://see.fontimg.com/api/renderfont4/7BeAw/eyJyIjoiZnMiLCJoIjo0NiwidyI6MTAwMCwiZnMiOjQ2LCJmZ2MiOiIjRTQ1MjUwIiwiYmdjIjoiI0ZGRTYzOCIsInQiOjF9/dGhlIE1JR0hUWSBUSFVOREVSQk9J/love-and-thunder.png" />
