@@ -30,11 +30,12 @@ ________________________________________________________
 <a href="https://www.linkedin.com/in/marcus-%C3%A5sberg-robertsson-641173113/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcus åsberg robertsson" height="30" width="40" /></a>
 </p>
 
+<div align="center">
 <table>
   <tr>
     <th align="center">Low Level/Embedded</th>
-    <th align="center">Backend</th>
     <th align="center">Frontend</th>
+    <th align="center">Backend</th>
     <th align="center">DevOps</th>
   </tr>
   <tr>
@@ -53,6 +54,15 @@ ________________________________________________________
         <img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" height="50" />
       </a>
     </td>
+     <!-- Frontend Icons -->
+    <td align="center">
+      <a href="https://www.w3.org/html/" target="_blank">
+        <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" height="50" />
+      </a>
+      <a href="https://www.w3.org/Style/CSS/" target="_blank">
+        <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" height="50" />
+      </a>
+    </td>
     <!-- Backend Icons -->
     <td align="center">
       <a href="https://www.python.org/" target="_blank">
@@ -63,15 +73,6 @@ ________________________________________________________
       </a>
       <a href="https://github.com/" target="_blank">
         <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
-      </a>
-    </td>
-    <!-- Frontend Icons -->
-    <td align="center">
-      <a href="https://www.w3.org/html/" target="_blank">
-        <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" height="50" />
-      </a>
-      <a href="https://www.w3.org/Style/CSS/" target="_blank">
-        <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" height="50" />
       </a>
     </td>
     <!-- DevOps Icons -->
@@ -86,6 +87,7 @@ ________________________________________________________
   </tr>
 </table>
 
+</div>
 
 ______________________________________________________
 
