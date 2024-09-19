@@ -32,7 +32,7 @@ ________________________________________________________
 
 <table>
   <tr>
-    <th align="center">Low Level</th>
+    <th align="center">Low Level/Embedded</th>
     <th align="center">Backend</th>
     <th align="center">Frontend</th>
     <th align="center">DevOps</th>
@@ -47,7 +47,10 @@ ________________________________________________________
         <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />
       </a>
       <a href="https://www.arm.com/architecture/cpu-architecture" target="_blank">
-        <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/6/6e/ARM_Logo.svg" alt="ARM Assembly" height="50" />
+        <img style="margin: 10px" src="https://www.svgrepo.com/show/373445/assembly.svg" alt="ARM Assembly" height="50" />
+      </a>
+       <a href="https://www.arduino.cc/" target="_blank">
+        <img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" height="50" />
       </a>
     </td>
     <!-- Backend Icons -->
@@ -61,12 +64,6 @@ ________________________________________________________
       <a href="https://github.com/" target="_blank">
         <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
       </a>
-      <a href="https://about.gitlab.com/" target="_blank">
-        <img style="margin: 10px" src="https://about.gitlab.com/images/press/logos/gitlab-logo-gray-stacked-rgb.png" alt="GitLab" height="50" />
-      </a>
-      <a href="https://www.arduino.cc/" target="_blank">
-        <img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" height="50" />
-      </a>
     </td>
     <!-- Frontend Icons -->
     <td align="center">
@@ -75,9 +72,6 @@ ________________________________________________________
       </a>
       <a href="https://www.w3.org/Style/CSS/" target="_blank">
         <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" height="50" />
-      </a>
-      <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
-        <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" height="50" />
       </a>
     </td>
     <!-- DevOps Icons -->
