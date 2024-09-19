@@ -30,10 +30,57 @@ ________________________________________________________
 <a href="https://www.linkedin.com/in/marcus-%C3%A5sberg-robertsson-641173113/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcus åsberg robertsson" height="30" width="40" /></a>
 </p>
 
-| **Low Level**                                 | **High Level**                               | **DevOps**                                                                                          |
-|-----------------------------------------------|----------------------------------------------|-----------------------------------------------------------------------------------------------------|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="30" height="30"/> C <br> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="30" height="30"/> C++ <br> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/assembly/assembly-original.svg" width="30" height="30"/> Assembly | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" height="30"/> Python <br> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="30" height="30"/> HTML5 <br> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="30" height="30"/> CSS3 | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="30" height="30"/> Git <br> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="30" height="30"/> Linux <br> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" width="30" height="30"/> Qt  |
+<div align="center"> 
+  <h3>Backend</h3>
+</div>
 
+<div align="center">  
+  <a href="https://www.cplusplus.com/" target="_blank">
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />
+  </a>  
+  <a href="https://www.python.org/" target="_blank">
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
+  </a>  
+  <a href="https://www.gnu.org/software/bash/" target="_blank">
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />
+  </a>  
+  <a href="https://www.cprogramming.com/" target="_blank">
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />
+  </a>  
+  <a href="https://github.com/" target="_blank">
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
+  </a>  
+  <a href="https://postman.com" target="_blank" rel="noreferrer">
+    <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+  </a>
+</div>
+
+<br>
+
+<div align="center"> 
+  <h3>DevOps</h3>
+</div>
+
+<div align="center">  
+  <a href="https://www.linux.org/" target="_blank">
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />
+  </a>  
+  <a href="https://github.com/" target="_blank">
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
+  </a>  
+  <a href="https://www.gnu.org/software/bash/" target="_blank">
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />
+  </a>  
+  <a href="https://www.cplusplus.com/" target="_blank">
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />
+  </a>  
+  <a href="https://www.cprogramming.com/" target="_blank">
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />
+  </a>  
+  <a href="https://www.python.org/" target="_blank">
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
+  </a>  
+</div>
 
 ______________________________________________________
 
