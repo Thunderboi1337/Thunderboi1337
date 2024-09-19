@@ -50,7 +50,6 @@ ________________________________________________________
         <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />
       </a>
     </td>
-
     <!-- Backend Icons -->
     <td align="center">
       <a href="https://www.python.org/" target="_blank">
@@ -63,7 +62,6 @@ ________________________________________________________
         <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
       </a>
     </td>
-
     <!-- Frontend Icons -->
     <td align="center">
       <a href="https://www.w3.org/html/" target="_blank">
@@ -73,7 +71,6 @@ ________________________________________________________
         <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" height="50" />
       </a>
     </td>
-
     <!-- DevOps Icons -->
     <td align="center">
       <a href="https://www.linux.org/" target="_blank">
@@ -88,7 +85,21 @@ ________________________________________________________
     </td>
   </tr>
   <!-- Next row for the 4th icon in each category -->
-
+ <tr>
+    <td align="center">
+      <a href="https://www.assembly.org/" target="_blank">
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/assembly-original.svg" alt="Assembly" height="50" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.nodejs.org/" target="_blank">
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original.svg" alt="Node.js" height="50" />
+      </a>
+    </td>
+    <td align="center"></td>
+    <td align="center"></td>
+  </tr>
+</table>
 
 ______________________________________________________
 
