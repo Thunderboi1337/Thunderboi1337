@@ -16,16 +16,6 @@
 </p>
 
 ________________________________________________________
-<h3 align="center">🔗 Connect with me</h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/marcus-%C3%A5sberg-robertsson-641173113/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcus åsberg robertsson" height="30" width="40" /></a>
-
- <a href="mailto:marcus.asberg.98@gmail.com" target="blank">
-    <img align="center" src="https://www.reshot.com/preview-assets/icons/S2C7DXKAG6/email-S2C7DXKAG6.svg" alt="Email" height="30" width="30" />
-  </a>
-</p>
-
-________________________________________________________
 
 
 <div align="center">
@@ -109,4 +99,18 @@ ______________________________________________________
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thunderboi1337&theme=tokyonight&layout=compact" />
 </a>
   </p>
+
+
+  ________________________________________________________
+<h3 align="center">🔗 Connect with me</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/marcus-%C3%A5sberg-robertsson-641173113/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcus åsberg robertsson" height="30" width="40" /></a>
+
+ <a href="marcus.asberg.98@gmail.com" target="blank">
+    <img align="center" src="https://www.reshot.com/preview-assets/icons/S2C7DXKAG6/email-S2C7DXKAG6.svg" alt="Email" height="30" width="30" />
+  </a>
+</p>
+
+________________________________________________________
+
 
