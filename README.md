@@ -85,21 +85,6 @@ ________________________________________________________
     </td>
   </tr>
   <!-- Next row for the 4th icon in each category -->
- <tr>
-    <td align="center">
-      <a href="https://www.assembly.org/" target="_blank">
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/assembly-original.svg" alt="Assembly" height="50" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.nodejs.org/" target="_blank">
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original.svg" alt="Node.js" height="50" />
-      </a>
-    </td>
-    <td align="center"></td>
-    <td align="center"></td>
-  </tr>
-</table>
 
 ______________________________________________________
 
