@@ -57,7 +57,10 @@ ________________________________________________________
         <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" height="50" />
       </a>
       <a href="https://github.com/" target="_blank">
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
+        <img style="margin: 10px" src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" alt="Go" height="50" />
+      </a>
+       <a href="https://go.dev/" target="_blank">
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
       </a>
     </td>
     <!-- DevOps Icons -->
