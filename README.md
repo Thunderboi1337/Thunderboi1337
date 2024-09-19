@@ -15,7 +15,7 @@
 🌱 I’m currently learning **Embedded programming**
 </p>
 <p align="center">
-👨‍💻 All of my projects are available at [github](github)
+👨‍💻 All of my projects are available at here on github and also some more specific on my portfolio https://thunderboi1337.github.io/
 </p>
 <p align="center">
 💬 Ask me about **stuff**
