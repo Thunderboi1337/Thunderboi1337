@@ -32,20 +32,25 @@ ________________________________________________________
 
 | **Category**               | **Languages/Tools**                                                                                                                                                                        |
 |----------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Programming Languages**   | ![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg) C <br> ![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg) C++ <br> ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) Python |
-| **Web Development**         | ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg) HTML5 <br> ![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg) CSS3                                                         |
-| **Version Control**         | ![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg) Git                                                                                                                         |
-| **Game Engines**            | ![Unity](https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg) Unity <br> ![Unreal Engine](https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg) Unreal Engine                                           |
-| **Embedded Systems/IoT**    | ![Arduino](https://cdn.worldvectorlogo.com/logos/arduino-1.svg) Arduino                                                                                                                       |
-| **Operating Systems**       | ![Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg) Linux                                                                                     |
-| **UI Development**          | ![Qt](https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg) Qt                                                                                                               |
-| **Design/Graphics**         | ![Photoshop](https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg) Photoshop                                                                         |
+| **Programming Languages**   | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="30" height="30"/> C <br> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="30" height="30"/> C++ <br> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" height="30"/> Python |
+| **Web Development**         | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="30" height="30"/> HTML5 <br> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="30" height="30"/> CSS3                                                         |
+| **Version Control**         | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="30" height="30"/> Git                                                                                                                         |
+| **Game Engines**            | <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="30" height="30"/> Unity <br> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" width="30" height="30"/> Unreal Engine                                           |
+| **Embedded Systems/IoT**    | <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="30" height="30"/> Arduino                                                                                                                       |
+| **Operating Systems**       | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="30" height="30"/> Linux                                                                                     |
+| **UI Development**          | <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" width="30" height="30"/> Qt                                                                                                               |
+| **Design/Graphics**         | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="30" height="30"/> Photoshop                                                                         |
+
 
 ______________________________________________________
 
 <h3 align="center">Random stats:</h3>
-
-
+<p align="center">
+<a href="https://github.com/thunderboi1337/github-readme-stats">
+![](https://github-readme-streak-stats.herokuapp.com/?user=Thunderboi1337&theme=radical&theme=tokyonight)</br>
+</a>
+  
+</p>
 <p align="center">
 <a href="https://github.com/thunderboi1337/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=thunderboi1337&theme=tokyonight" />
