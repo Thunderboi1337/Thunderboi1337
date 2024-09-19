@@ -9,13 +9,8 @@
 <h2 align="center">A passionate Embedded programminger from Sweden</h2>
 
 <p align="center">
-🌱 I’m currently learning **Embedded programming**
-</p>
-<p align="center">
 👨‍💻 All of my projects are available at here on github and also some more specific on my portfolio https://thunderboi1337.github.io/
 </p>
-
-________________________________________________________
 
 
 <div align="center">
