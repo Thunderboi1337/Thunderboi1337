@@ -48,7 +48,7 @@ ______________________________________________________
 <p align="center">
 <a href="https://github.com/thunderboi1337/github-readme-stats">
 <div align="center">
-    <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?username=Thunderboi1337&theme=tokyonight" />
+    <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=thunderboi1337&theme=tokyonight" />
 </div>
 
 </a>
