@@ -47,7 +47,7 @@ ______________________________________________________
 <h3 align="center">Random stats:</h3>
 <p align="center">
 <a href="https://github.com/thunderboi1337/github-readme-stats">
-![](https://github-readme-streak-stats.herokuapp.com/?user=Thunderboi1337&theme=radical&theme=tokyonight)</br>
+   <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?username=Thunderboi1337&theme=tokyonight" />
 </a>
   
 </p>
