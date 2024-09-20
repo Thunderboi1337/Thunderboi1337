@@ -8,11 +8,6 @@
 <p align="center">
 <h2 align="center">A passionate Embedded programminger from Sweden</h2>
 
-<p align="center">
-👨‍💻 All of my projects are available at here on github and also some more specific on my portfolio https://thunderboi1337.github.io/
-</p>
-
-
 <div align="center">
 <table>
   <tr>
