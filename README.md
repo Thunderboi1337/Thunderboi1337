@@ -13,7 +13,7 @@
   <tr>
     <th align="center">Low Level/Embedded</th>
     <th align="center">Scripts</th>
-    <th align="center">Frontend/Backend/</th>
+    <th align="center">Frontend/Backend</th>
     <th align="center">DevOps</th>
   </tr>
   <tr>
