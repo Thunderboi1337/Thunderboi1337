@@ -7,7 +7,7 @@
 
 <p align="center">
 <h2 align="center">A passionate Embedded programminger from Sweden</h2>
-______________________________________________________
+
 
 <h3 align="center">Random stats:</h3>
 <p align="center">
