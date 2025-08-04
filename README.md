@@ -6,7 +6,7 @@
 ![alt text](https://github.com/Thunderboi1337/Thunderboi1337/blob/main/DSCF5795.jpg)
 
 <p align="center">
-<h2 align="center">A passionate Embedded programminger from Sweden</h2>
+<h2 align="center">Embedded programminger</h2>
 
 
 <h3 align="center">Random stats:</h3>
